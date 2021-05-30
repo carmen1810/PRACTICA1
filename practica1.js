@@ -50,19 +50,13 @@ console.log('user',user)
 ///ejercicio 6//
 
 let name={}
-alert(isEmpty(name));//true
-schedule["8:30"] = "get up";
-alert(isEmpty(schedule) ); // false
-let name={}
-
-function isEmpty(obj) {
    for ( var key in obj) {
   	     return false ; 
-     }
-  	   
-     return true ;
-  }
-  isEmpty(name)
+   
+        }}
+let name="John"       
+console.log(isEmpty(name))
+
 
 ///Ejercicio 7///
 
