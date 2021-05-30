@@ -15,10 +15,9 @@ document.body.innerHTML="<h1>Mi nombre es" + " "+ admin + "</h1>";
 
 ///Ejercicio 2//
 let planeta = "tierra"
-
-let visitorwebsite="visit"
 console.log("planeta",planeta)
-console.log("visitorwebsite",visitorwebsite)
+let visitorwebsite=prompt("What is your name")
+alert('Hello,'+visitorwebsite+'!')
 
 ///Ejercicio 3//
 
