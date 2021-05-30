@@ -6,9 +6,11 @@ var name;
 
 name = "John";
 admin = name;
-
-function alert(admin)
-
+function showAlert() {
+    admin = name;
+    alert (admin);
+  }
+console.log(admin)
 
 
 
