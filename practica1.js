@@ -45,7 +45,8 @@ surname: 'Smith'}
 console.log('user',user)
 user.name="Pete"
 console.log('user',user)
-
+delete user.surname
+console.log('user',user)
 ejercicio 6
 ejercicio 7
 ejercicio 8
