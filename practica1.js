@@ -43,6 +43,8 @@ const objectConstructor= new Object();
 const user={ name: 'John',
 surname: 'Smith'}
 console.log('user',user)
+user.name="Pete"
+console.log('user',user)
 
 ejercicio 6
 ejercicio 7
