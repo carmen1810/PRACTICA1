@@ -61,5 +61,5 @@ let salaries = {
     }
 
 
-ejercicio 7
-ejercicio 8
+
+//Ejercicio 8///
