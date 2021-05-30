@@ -7,9 +7,8 @@ var name;
 name = "John";
 admin = name;
 
-alert(admin)
-console.log('name',name)
-console.log('admin',admin)
+function alert(admin)
+
 
 
 
