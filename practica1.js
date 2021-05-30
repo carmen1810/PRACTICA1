@@ -14,11 +14,11 @@ document.body.innerHTML="<h1>Mi nombre es" + " "+ admin + "</h1>";
 
 
 ///Ejercicio 2//
-
-let planeta = prompt("What is the name of our planet?")
-alert('Hello, our planet is '+ planeta + '!')
+let planeta = "tierra"
 
 let visitorwebsite="visit"
+console.log("planeta",planeta)
+console.log("visitorwebsite",visitorwebsite)
 
 ///Ejercicio 3//
 
