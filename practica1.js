@@ -2,7 +2,7 @@
 ///Ejercicio 1//
 
 var admin;
-var nname;
+var name;
 
 name = "John";
 admin = name;
