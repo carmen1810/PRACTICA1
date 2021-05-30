@@ -23,7 +23,7 @@ console.log("visitorwebsite",visitorwebsite)
 ///Ejercicio 3//
 
 const birthday='18.04.1984'
-const age=someCode(birthay)
+const age=alert(birthay)
 //Se debe empezar con mayuscula y seguido cn minuscula para que sea entendible
 ///
 
