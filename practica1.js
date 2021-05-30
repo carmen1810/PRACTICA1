@@ -59,6 +59,19 @@ let salaries = {
     Ann: 160,
     Pete: 130
     }
+    function sum( obj ) {
+        var sum = 0;
+        for( var el in obj ) {
+          if( obj.hasOwnProperty( el ) ) {
+            sum += parseFloat( obj[el] );
+          }
+        }
+        return sum;
+      }
+          
+     
+      var summed = sum( salaries );
+      console.log(summed)
 
 
 
