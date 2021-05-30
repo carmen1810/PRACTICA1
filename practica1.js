@@ -10,8 +10,7 @@ function showAlert() {
     admin = name;
     alert (admin);
   }
-console.log(admin)
-
+document.body.innerHTML="<h1>Mi nombre es" + " "+ admin + "</h1>";
 
 
 ///Ejercicio 2//
