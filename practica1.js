@@ -24,8 +24,8 @@ console.log("visitorwebsite",visitorwebsite)
 
 const birthday='18.04.1984'
 const age=alert(birthay)
-//Se debe empezar con mayuscula y seguido cn minuscula para que sea entendible
-///
+//Generalmente usamos mayúsculas para las constantes que están "codificadas" en este caso AGE debería estar en mayuscula y 
+//birthday en minuscula por ser constante//
 
 
 ///Ejercicio 4//
