@@ -49,12 +49,18 @@ delete user.surname
 console.log('user',user)
 ///ejercicio 6//
 
-let name={}
-   for ( var key in obj) {
-  	     return false ; 
-   
-        }}
-let name="John"       
+let name=""
+
+function isEmpty(obj) {
+  for ( var key in obj) {
+    return false ;
+  }   
+       return true ;
+  }
+      
+  console.log(isEmpty(name))
+  
+name="John"
 console.log(isEmpty(name))
 
 
