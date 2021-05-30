@@ -1,10 +1,12 @@
 
 ///Ejercicio 1//
 
-let name
-let admin
-name="John";
-admin=name
+var admin;
+var nname;
+
+name = "John";
+admin = name;
+
 alert(admin)
 console.log('name',name)
 console.log('admin',admin)
