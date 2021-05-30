@@ -47,6 +47,19 @@ user.name="Pete"
 console.log('user',user)
 delete user.surname
 console.log('user',user)
-ejercicio 6
+///ejercicio 6//
+let name={}
+alert(isEmpty(name));//true
+schedule["8:30"] = "get up";
+alert(isEmpty(schedule) ); // false
+///Ejercicio 7///
+
+let salaries = {
+    John: 100,
+    Ann: 160,
+    Pete: 130
+    }
+
+
 ejercicio 7
 ejercicio 8
